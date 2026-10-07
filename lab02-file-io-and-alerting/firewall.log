@@ -1,0 +1,10 @@
+timestamp="2026-10-06T18:00:10Z" src_ip="192.168.1.45" dst_ip="104.244.42.1" src_port=51200 dst_port=443 protocol="TCP" action="ALLOW" bytes=1542
+timestamp="2026-10-06T18:00:12Z" src_ip="192.168.1.102" dst_ip="8.8.8.8" src_port=53211 dst_port=53 protocol="UDP" action="ALLOW" bytes=128
+timestamp="2026-10-06T18:01:05Z" src_ip="203.0.113.195" dst_ip="192.168.1.5" src_port=41233 dst_port=22 protocol="TCP" action="DENY" bytes=0
+timestamp="2026-10-06T18:01:06Z" src_ip="203.0.113.195" dst_ip="192.168.1.5" src_port=41234 dst_port=22 protocol="TCP" action="DENY" bytes=0
+timestamp="2026-10-06T18:01:07Z" src_ip="203.0.113.195" dst_ip="192.168.1.5" src_port=41235 dst_port=22 protocol="TCP" action="DENY" bytes=0
+timestamp="2026-10-06T18:02:15Z" src_ip="192.168.1.60" dst_ip="172.217.16.206" src_port=54122 dst_port=443 protocol="TCP" action="ALLOW" bytes=3890
+timestamp="2026-10-06T18:03:40Z" src_ip="198.51.100.23" dst_ip="192.168.1.10" src_port=60111 dst_port=3389 protocol="TCP" action="DENY" bytes=0
+timestamp="2026-10-06T18:04:12Z" src_ip="192.168.1.15" dst_ip="1.1.1.1" src_port=49912 dst_port=53 protocol="UDP" action="ALLOW" bytes=84
+timestamp="2026-10-06T18:05:01Z" src_ip="185.220.101.5" dst_ip="192.168.1.20" src_port=52300 dst_port=445 protocol="TCP" action="DENY" bytes=0
+timestamp="2026-10-06T18:05:30Z" src_ip="192.168.1.50" dst_ip="140.82.121.4" src_port=56102 dst_port=443 protocol="TCP" action="ALLOW" bytes=9210
