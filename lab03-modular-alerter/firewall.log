@@ -1,0 +1,8 @@
+src=192.168.1.50 action=BLOCK
+src=10.0.0.12 action=ALLOW
+src=192.168.1.50 action=BLOCK
+src=172.16.0.4 action=BLOCK
+src=192.168.1.50 action=BLOCK
+src=10.0.0.15 action=ALLOW
+src=invalid_ip_address action=BLOCK
+src=192.168.1.50 action=BLOCK
